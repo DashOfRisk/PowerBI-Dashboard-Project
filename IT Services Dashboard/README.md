@@ -21,7 +21,7 @@ The dataset tracks interaction volumes, resolution times, and categorises the da
 The report identifies the top 5 categories with the highest interaction volume and the bottom 5 categories, allowing users to filter by specific issue types using **Power BI slicers**.
 
 ### 3. AI-Powered Dataset Generation
-Leveraged **ChatGPT** to generate a mock dataset with pervasive issues for rapid prototyping, allowing for quick testing of different reporting scenarios without relying on a live limited dataset.
+Leveraged **AI Tools** to generate a mock dataset with pervasive issues for rapid prototyping, allowing for quick testing of different reporting scenarios without relying on a live limited dataset.
 
 ### 4. DAX Measures for Advanced Insights
 Created custom **DAX measures** to calculate important metrics such as average resolution times, SLA compliance, and performance breakdowns by issue category.
@@ -32,7 +32,7 @@ Built responsive, interactive dashboards using **Power BI** features, including 
 ## Skills Applied & Developed
 
 ### Power BI Data Modelling
-- Worked with time-based data and structured date tables for optimal reporting performance.  
+- Worked with time-based data and structured date tables for optimal reporting performance along with **External Tools** such as SQLBI.  
 - Created dynamic, user-friendly dashboards that present actionable insights.
 
 ### DAX & Data Analysis
@@ -51,8 +51,8 @@ This PoC report provides valuable insights into IT service desk performance, off
 
 
 
-> **Disclaimer**: This project was created as part of a **follow-along project** and **guided classroom** by Injae Park in the Power BI Park community. All rights to the original concept, structure, and guidance of this project belong to Injae Park.    
-> This project is intended for educational and personal use only. Please do not replicate or distribute any part of the project without prior permission from the project creator. Any commercial use or unauthorized distribution of the materials provided in this PoC report is prohibited.
-Apply Power BI reporting for real-time performance analysis in service desk environments.
-Continue building advanced dashboards to monitor and improve service desk efficiency.
-Experiment with AI tools to further enhance and automate reporting capabilities.
+## Disclaimer
+
+This project was created as part of a **follow-along project** and **guided classroom** by Injae Park in the Power BI Park community. While the original concept, structure, and guidance of this project were provided by Injae Park, I have prior permission to showcase this project as my own.
+The **PBIX file** or any associated materials from this Proof of Concept (PoC) report will only be provided with prior permission from me. Any unauthorised distribution, replication, or commercial use of the materials in this project is strictly prohibited.
+
