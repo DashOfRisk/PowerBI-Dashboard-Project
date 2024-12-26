@@ -68,8 +68,8 @@ This project demonstrates:
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
-[LinkedIn]([(https://www.linkedin.com/in/reeve-d-0b481a238/)]) 
+**Reeve Dmello**  
+[LinkedIn](https://www.linkedin.com/in/reeve-d-0b481a238/) 
 
 ---
 
