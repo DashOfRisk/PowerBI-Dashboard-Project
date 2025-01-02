@@ -36,11 +36,11 @@ Building upon Version 1, this project emphasises:
 
 ## 📷 Dashboard Preview
 
-### Dashboard Overview (Main Page)
-![Dashboard Overview](https://github.com/DashOfRisk/PowerBI-Dashboard-Project/blob/cfc65cf44115bc5c6c058836e4e3b19231902737/Electronic Sales Dashboard V2/Electronic Sales Dashboard1 V2.png)
+![Dashboard Overview (Main Page)](https://raw.githubusercontent.com/DashOfRisk/PowerBI-Dashboard-Project/cfc65cf44115bc5c6c058836e4e3b19231902737/Electronic%20Sales%20Dashboard%20V2/Electronic%20Sales%20Dashboard1%20V2.png)
 
 ### Dashboard Overview (Drillthrough Page)
-![Dashboard Overview](https://github.com/DashOfRisk/PowerBI-Dashboard-Project/blob/cfc65cf44115bc5c6c058836e4e3b19231902737/Electronic Sales Dashboard V2/Electronic Sales Dashboard2 V2.png)
+![Dashboard Overview (Drillthrough Page)](https://raw.githubusercontent.com/DashOfRisk/PowerBI-Dashboard-Project/cfc65cf44115bc5c6c058836e4e3b19231902737/Electronic%20Sales%20Dashboard%20V2/Electronic%20Sales%20Dashboard2%20V2.png)
+
 ---
 
 ## 🛠 Data Preparation with Python
