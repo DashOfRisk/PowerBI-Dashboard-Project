@@ -36,6 +36,7 @@ Building upon Version 1, this project emphasises:
 
 ## 📷 Dashboard Preview
 
+### Dashboard Overview (Main Page)
 ![Dashboard Overview (Main Page)](https://raw.githubusercontent.com/DashOfRisk/PowerBI-Dashboard-Project/cfc65cf44115bc5c6c058836e4e3b19231902737/Electronic%20Sales%20Dashboard%20V2/Electronic%20Sales%20Dashboard1%20V2.png)
 
 ### Dashboard Overview (Drillthrough Page)
